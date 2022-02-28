@@ -1,0 +1,22 @@
+name = Ship
+map_size_blocks= 16x11
+
+amount_of_walls = 3
+wall_1 = misc\img\Walls\wood.png
+wall_2 = misc\img\Walls\cloth.png
+wall_3 = misc\img\Walls\wall.png
+
+point_image = misc\img\point.png
+
+$Map
+2222222222222222
+0000000000000000
+2000001220000G02
+2000001122000002
+2000001122200002
+2000001122220002
+0000001100000000
+1000111111110001
+1100000000000011
+3110000P00000113
+3311111111111133
